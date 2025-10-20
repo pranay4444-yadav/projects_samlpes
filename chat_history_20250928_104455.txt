@@ -1,0 +1,11 @@
+You: tell me about diabetes
+Bot: **Symptoms of Diabetes:** Frequent urination, Excessive thirst, Weight loss, Fatigue
+
+You: tell me vaccination schedule
+Bot: **Vaccination Schedule:**
+- BCG: At birth
+- Hepatitis B: At birth, 6 weeks, 10 weeks, 14 weeks
+- Polio: At birth, 6 weeks, 10 weeks, 14 weeks
+- Measles: 9 months, 16 months
+- COVID-19: As per govt. guidelines (2 doses + booster)
+
